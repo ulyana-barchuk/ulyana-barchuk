@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-Hello, I'm Ulyana, a junior QA engineer. I'm a dynamic. fast-learning specialist with rich international experience. Because of moving to another country, I have decided to change my field of activity.I have completed my studies on the course,am completing additional courses and am now in search of new career opportunities. I can offer initiative, readiness to learn, flexibility, enthusiasm, and high motivation.
+Hello, I'm Ulyana, a junior QA engineer. I'm a dynamic, fast-learning specialist with rich international experience. Because of moving to another country, I have decided to change my field of activity.I have completed my studies on the course,am completing additional courses and am now in search of new career opportunities. I can offer initiative, readiness to learn, flexibility, enthusiasm, and high motivation.
 
 - 📫How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ulyana.barchuk@gmail.com)
 
